@@ -1,5 +1,0 @@
-new entry "Stats_OdinPyro_PROC_SCORCH"
-type "Potion"
-data "Act" "1"
-data "Act part" "0"
-data "StatusIcon" "statIcons_FrostAura"

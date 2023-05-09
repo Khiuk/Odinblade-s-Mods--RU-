@@ -1,2 +1,0 @@
-new itemcolor "OdinPyro_ArmourColour","FF510D0D","FFB22222","FF778899"
-
