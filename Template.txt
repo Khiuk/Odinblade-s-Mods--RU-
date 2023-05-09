@@ -1,0 +1,29 @@
+Books:
+
+
+Skillbook - Книга навыков
+
+
+Status:
+
+
+Scorch - Испепеление
+Acid - Кислота
+Petrified - Окаменение
+Atrophy - 
+Bleed Fire -
+Bleeding - Кровотечение
+Blinded - Слепота
+Burning - Горение
+
+Stats:
+
+
+Magic Armour - Магическая броня
+Range: - Дальность:
+
+
+Magic:
+
+
+Cursed flame - Проклятое пламя
